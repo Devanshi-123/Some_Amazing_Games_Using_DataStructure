@@ -26,4 +26,4 @@
 ##### 4. When all the points will get exhausted and score is negative player will lose 
 ##### 5. If the player is able to reach the gem without exhausting all the points player wins the game 
 
-#### What are you waiting for lets play :superhero_woman: [Let's Defeat Corona]
+#### What are you waiting for lets play :superhero_woman: [Let's Defeat Corona](https://covid-fightergame.netlify.app/)
