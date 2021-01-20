@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Covid Fighter Game</title>
+        <style>
+            #mycanvas{
+                background-image: url("./back.jpg");
+                width: 60vw;
+                height: 70vh;
+                margin-top: 4vh;
+                margin-left: 19vw;
+                border: 5px solid red;
+            }
+            h1{
+                text-align: center;
+                font-family: cursive;
+                margin-top: 10vh;
+                font-size: 3rem;
+            }
+            @media (min-width:800px){
+                #my_canvas{
+                    height: 50vh;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Covid Fighter Game</h1>
+        <canvas id="mycanvas"></canvas>
+        <script src="covid.js">
+        </script>
+    </body>
+</html>
