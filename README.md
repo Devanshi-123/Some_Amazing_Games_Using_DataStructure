@@ -1,1 +1,29 @@
 # Some_Amazing_Games_Using_DataStructure
+
+## 1. Classic Snake Game :snake:
+
+### Here is a preview
+
+![snakegame](https://user-images.githubusercontent.com/55852502/105125105-9fdba900-5b01-11eb-9192-1d7ad23f525f.gif)
+
+#### Rules :
+##### 1. For now you can view the game in mobile phones as well but can play it on  laptop only using keyboard keys
+##### 2.There the arrow keys will be guiding the snake the directions to move 
+##### 3.When the snake will eat the food its length will increase while on hitting any of the boundary the game will be over.
+
+#### Wish to play the game :smile: Here you go :point_right: [Let's Feed The Snake](https://classicsnakegame.netlify.app/)
+
+## 2. Covid Fighter Game
+
+### Here is a preview
+
+![covidfighter](https://user-images.githubusercontent.com/55852502/105162326-7a1dc680-5b38-11eb-8afa-216d53f5592b.gif)
+
+#### Rules :
+##### 1. The player movement can be controlled using mouse click as we press mouse the player will move forward
+##### 2. We need to make the player in such a way that they collide least with the virus as each collision cost -25 points
+##### 3. Initially player is provided with 100 points on each successful move +5 on each collision with virus -25
+##### 4. When all the points will get exhausted and score is negative player will lose 
+##### 5. If the player is able to reach the gem without exhausting all the points player wins the game 
+
+#### What are you waiting for lets play :superhero_woman: [Let's Defeat Corona]
