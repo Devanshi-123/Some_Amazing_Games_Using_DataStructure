@@ -12,3 +12,9 @@
 ##### 3.When the snake will eat the food its length will increase while on hitting any of the boundary the game will be over.
 
 #### Wish to play the game :smile: Here you go :point_right: [Let's Feed The Snake](https://classicsnakegame.netlify.app/)
+
+## 2. Covid Fighter Game
+
+### Here is a preview
+
+
