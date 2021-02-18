@@ -28,7 +28,7 @@
 
 #### What are you waiting for lets play :superhero_woman: :point_right: [Let's Defeat Corona](https://covid-fightergame.netlify.app/)
 
-## 3. Spin And Win Game :wheel:
+## 3. Spin And Win Game :dart:
 
 ### Here is a preview
 
@@ -37,7 +37,7 @@
 #### Rules :
 ##### 1. For now you can view the game in mobile phones as well but can play it on  laptop only using keyboard keys
 ##### 2.As soon as you will click on the wheel the wheel will start spinning
-##### 3.After some time randomly the wheel will stop and it will display what you have won
+##### 3.After some time randomly the wheel will stop and it will display what you have won :partying_face:
 
 #### Wish to play the game :smile: Here you go :point_right: [Let's Spin The Wheel](https://classicsnakegame.netlify.app/)
 
