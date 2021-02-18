@@ -32,7 +32,7 @@
 
 ### Here is a preview
 
-![spin&win](https://user-images.githubusercontent.com/55852502/105125105-9fdba900-5b01-11eb-9192-1d7ad23f525f.gif)
+![spin](https://user-images.githubusercontent.com/55852502/108359310-db0eec00-7215-11eb-9c98-d71a5985f856.gif)
 
 #### Rules :
 ##### 1. For now you can view the game in mobile phones as well but can play it on  laptop only using keyboard keys
