@@ -45,7 +45,7 @@
 
 ### Here is a preview
 
-
+![sudoku](https://user-images.githubusercontent.com/55852502/108374045-89bb2880-7226-11eb-9c3b-b0a27b6cf13e.gif)
 
 #### Rules :
 ##### 1. For now you can view the game in mobile phones as well but can play it on  laptop only using keyboard keys
