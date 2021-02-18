@@ -1,4 +1,4 @@
-# Some_Amazing_Games_Using_DataStructure
+# Lets_Play_Some_Games_Using_DataStructure
 
 ## 1. Classic Snake Game :snake:
 
