@@ -52,4 +52,4 @@
 ##### 2.As you click on generate new game it will display a sudoku puzzle
 ##### 3.Try to solve on your own now curious to know the answer just click on solve and it will fill up the empty cells with the solution.
 
-#### Wish to play the game :smile: Here you go :point_right: [Let's Solve Sudoku](https://classicsnakegame.netlify.app/)
+#### Wish to play the game :smile: Here you go :point_right: [Let's Solve Sudoku](https://lets-play-sudoku.netlify.app/)
